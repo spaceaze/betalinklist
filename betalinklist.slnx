@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="betalinklist/betalinklist.vcxproj" Id="b73f71b3-820d-4a2c-9dd1-69fbd9dfe136" />
+</Solution>
