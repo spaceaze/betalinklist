@@ -14,6 +14,7 @@ public:
         value = val;
         next = NULL; 
         // lkkfff
+
     }  
 };
 
