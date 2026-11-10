@@ -12,8 +12,9 @@ public:
     // Contructor
     Node(int val) {
         value = val;
-        next = NULL;
-    }
+        next = NULL; 
+        // lkk
+    }  
 };
 
 void traverse(Node* begin) {
