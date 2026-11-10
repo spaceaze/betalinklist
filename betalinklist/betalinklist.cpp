@@ -13,7 +13,7 @@ public:
     Node(int val) {
         value = val;
         next = NULL; 
-        // lkk
+        // lkkfff
     }  
 };
 
